@@ -494,7 +494,7 @@ func TestLarkFormatterColors(t *testing.T) {
 	statusInfo := config.StatusInfo{Title: "Test"}
 
 	tests := []struct {
-		status          analyzer.Status
+		status           analyzer.Status
 		expectedTemplate string
 	}{
 		{analyzer.StatusTaskComplete, "green"},
