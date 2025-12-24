@@ -101,7 +101,7 @@ The binary is downloaded once and cached locally. You can re-run `/claude-notifi
 
 ### 🔔 Flexible Notifications
 - **Desktop notifications** with custom icons and sounds
-- **Webhook integrations**: Slack, Discord, Telegram, and custom endpoints
+- **Webhook integrations**: Slack, Discord, Telegram, Lark/Feishu, and custom endpoints
 - **Session names**: Friendly identifiers like `[bold-cat]` for multi-session tracking
 - **Cooldown system** to prevent notification spam
 
